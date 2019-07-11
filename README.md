@@ -1,6 +1,7 @@
 # Resume
 Meticulous individual with 2+ years of experience in data analytics and business intelligence solutions. Skilled in agile and business process improvement with expertise in tools like Salesforce, Tableau, Power BI, Selenium and proficient in languages like SQL, R and Python. Committed to retaining clients for the long term by diligently helping them achieve success. 
-____________________________________________________________PROFESSIONAL EXPERIENCE_____________________________________________________
+
+PROFESSIONAL EXPERIENCE
 
 Systems Analyst Intern, Worcester Polytechnic Institute                                                                Aug’18 – Dec’18
 ●	Assisted to transform WPI’s enterprise level infrastructure to a Workday platform with inbuilt analytical functionalities, and cloud applications using Salesforce CRM technology.
@@ -21,7 +22,8 @@ Business Data Analyst, Accenture Solutions Private Limited, India 	             
 Associate Website Developer, Stickman Global Services Private Limited, India                                           Aug’15 – Jan’16    ●	Worked as a website application developer to develop and maintain software packages for business services websites.
 ●	Programmed web application codes, prototype applications, content and page links by conducting testing and installation of programs into production.
 ●	Performed Unit and System testing to validate the HTML/CSS codes, cross browser accessibility and security of applications and communicated application plans with the development team.
-______________________________________________________________ACADEMIC PROJECTS_______________________________________________________
+
+ACADEMIC PROJECTS
 
 Research Facilitator for Form labs Project, Worcester Polytechnic Institute                                            Jan’18 – May’18
 ●	Facilitated research supervision on envisioning ways to improve loopholes in Info-Sec infrastructure through comprehensive analysis of various security aspects.
@@ -33,14 +35,15 @@ Restaurant Revenue Recognition using Machine Learning Algorithms, WPI           
 Business Intelligence Solutions for Guitar Center Inc. USA, WPI                                                         Jan’18 – May’18
 ●	Architected BI Solution at the Guitar Center by formulating Key Performance Metrics, developing dynamic dashboards using Tableau & Power BI to show weekly orders and gross sales that improved business productivity for client.
 ●	Performed data analysis based on topic modelling, conjoint analysis, and linear regression using R, SQL and Tableau tools to improve sales enhancements and opportunities by 25% by effective market gap analysis.
-__________________________________________________________________EDUCATION_____________________________________________________________
+
+EDUCATION
 
 Worcester Polytechnic Institute (WPI), Worcester, MA, GPA 3.87/4.0                                                      May’2019
 Master of Science on concentration in Information Technology (Robert Foisie Business School)
 Thakur College of Engineering & Technology, Mumbai, India, GPA 3.5/4.0                                                  May’2015
 Bachelor of Engineering, Electronics & Telecommunications Majors   
                                             		            
-__________________________________________________________SKILLS & CERTIFICATIONS_______________________________________________________
+SKILLS & CERTIFICATIONS
 
 Tools: Tableau, Visual Studio, RStudio, Selenium, JIRA, ServiceNow, Mendix, Power BI, Salesforce CRM
 Technical Skills: Java, SQL, MS Office (Word, Excel, PowerPoint, Access, Project), R, Python, C++
